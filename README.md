@@ -53,51 +53,51 @@ All outputs were saved inside the /outputs/ folder and sequenced exactly as they
 
 # 📷 Visualizations
 
-🧩 Main Combination of All Plots
-!Main Overview
+### 🧩 Main Combination of All Plots
+![Main Overview](outputs/1000071750-Picsart-AirImageEnhancer.png)
 
 ---
 
-# 🔢 Attribute-Specific Visuals (Sequential)
+### 🔢 Attribute-Specific Visuals (Sequential)
 
-1. Age Distribution
-!Age Histogram
+#### 1. Age Distribution
+![Age Histogram](outputs/IMG_20250706_202945.png)
 
-2. Sex Distribution
-!Sex Pie Chart
+#### 2. Sex Distribution
+![Sex Pie Chart](outputs/IMG_20250706_203017.png)
 
-3. Region Frequency
-!Region Histogram
+#### 3. Region Frequency
+![Region Histogram](outputs/IMG_20250706_203034.png)
 
-4. Income Spread
-!Income Distribution
+#### 4. Income Distribution
+![Income Distribution](outputs/IMG_20250706_203053.png)
 
-5. Marital Status
-!Marital Status
+#### 5. Marital Status
+![Marital Status](outputs/IMG_20250706_203112.png)
 
-6. Children Count
-!Children Histogram
+#### 6. Children Count
+![Children Histogram](outputs/IMG_20250706_203129.png)
 
-7. Car Ownership
-!Car Pie Chart
+#### 7. Car Ownership
+![Car Pie Chart](outputs/IMG_20250706_203143.png)
 
-8. Save Account Status
-!Saving Account
+#### 8. Save Account
+![Save Account Pie Chart](outputs/IMG_20250706_211047.png)
 
-9. Current Account Status
-!Current Account
+#### 9. Current Account
+![Current Account Pie Chart](outputs/IMG_20250706_211110.png)
 
-10. Mortgage Status
-!Mortgage
+#### 10. Mortgage Status
+![Mortgage Pie Chart](outputs/IMG_20250706_211129.png)
 
-11. PEP Investment Status
-!PEP Investment
+#### 11. PEP Investment
+![PEP Investment Pie Chart](outputs/IMG_20250706_211204.png)
 
-12. Income – Zoomed or Reanalyzed
-!Income Again
+#### 12. Income (Zoomed / Reanalyzed)
+![Income Again](outputs/IMG_20250706_211449.png)
 
-13. Age – Reanalyzed
-!Age Again
+#### 13. Age (Reanalyzed)
+![Age Again](outputs/IMG_20250706_211515.png)
 
 ---
 

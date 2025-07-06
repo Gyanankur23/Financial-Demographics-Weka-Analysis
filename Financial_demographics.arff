@@ -1,0 +1,116 @@
+@relation financial_demographics
+
+@attribute age numeric
+@attribute sex {male,female}
+@attribute region {inner_city,town,suburban,rural}
+@attribute income numeric
+@attribute married {yes,no}
+@attribute children numeric
+@attribute car {yes,no}
+@attribute save_act {yes,no}
+@attribute current_act {yes,no}
+@attribute mortgage {yes,no}
+@attribute pep {yes,no}
+
+@data
+87,female,rural,12148,no,0,no,no,no,no,no
+78,male,inner_city,34072,yes,2,yes,no,no,no,no
+69,female,town,63130,yes,1,no,yes,no,yes,no
+90,male,suburban,5014,yes,3,yes,no,no,no,no
+63,female,inner_city,28950,no,0,no,no,no,no,no
+57,male,town,45210,yes,0,no,yes,no,no,yes
+18,female,rural,8800,no,0,no,no,no,no,no
+42,male,town,31355,yes,1,yes,no,yes,no,no
+67,female,suburban,72000,yes,3,yes,yes,yes,yes,yes
+36,male,inner_city,41000,no,0,no,no,no,no,no
+58,female,town,195000,yes,2,yes,yes,yes,yes,no
+47,male,rural,220000,yes,1,yes,no,no,yes,yes
+22,female,suburban,18000,no,0,no,no,no,no,no
+71,male,inner_city,86000,yes,4,yes,yes,no,no,yes
+59,female,town,132000,yes,2,yes,no,yes,no,no
+33,male,suburban,57000,no,0,no,no,no,no,no
+41,female,rural,69000,yes,3,yes,yes,no,yes,no
+65,male,inner_city,125000,yes,1,no,no,no,no,no
+76,female,town,98000,yes,0,no,no,no,no,no
+49,male,rural,103000,no,0,yes,no,no,no,no
+54,female,suburban,82000,yes,1,no,no,no,no,no
+39,male,town,48000,no,0,no,no,no,no,no
+61,female,inner_city,74500,yes,2,yes,no,yes,no,no
+28,male,suburban,62000,no,0,no,no,no,no,no
+35,female,rural,54000,no,0,no,no,no,no,no
+50,male,town,87000,yes,0,no,no,no,no,no
+69,female,inner_city,95000,yes,1,yes,no,no,yes,no
+31,male,suburban,60000,no,1,no,no,no,no,no
+48,female,rural,71000,yes,2,no,no,no,no,no
+27,male,town,37000,no,0,no,no,no,no,no
+56,female,suburban,83000,yes,1,no,yes,no,no,yes
+44,male,inner_city,92000,yes,2,yes,no,no,no,no
+23,female,town,31000,no,0,no,no,no,no,no
+62,male,suburban,107000,yes,3,yes,no,no,no,no
+38,female,rural,45000,no,0,no,no,no,no,no
+29,male,inner_city,46000,no,1,no,no,no,no,no
+53,female,town,96000,yes,2,yes,no,no,no,yes
+45,male,rural,84000,yes,2,yes,no,no,yes,no
+26,female,suburban,42000,no,0,no,no,no,no,no
+55,male,inner_city,78000,yes,2,no,no,no,no,no
+66,female,town,112000,yes,3,yes,no,no,no,no
+30,male,suburban,61000,no,0,no,no,no,no,no
+34,female,rural,54000,no,0,no,no,no,no,no
+59,male,town,97000,yes,1,no,no,no,no,no
+72,female,inner_city,120000,yes,3,yes,yes,no,no,no
+25,male,suburban,41000,no,0,no,no,no,no,no
+64,female,rural,99000,yes,2,yes,no,no,no,no
+40,male,town,88000,yes,2,no,no,no,no,no
+21,female,inner_city,26000,no,0,no,no,no,no,no
+60,male,suburban,102000,yes,2,yes,yes,no,no,no
+19,female,rural,19000,no,0,no,no,no,no,no
+46,male,town,85000,no,0,no,no,no,no,no
+32,female,inner_city,61000,no,1,no,no,no,no,no
+51,male,suburban,91000,yes,1,no,no,no,no,no
+68,female,rural,108000,yes,2,yes,no,no,no,no
+43,male,town,76000,yes,1,no,no,no,no,no
+24,female,suburban,30000,no,0,no,no,no,no,no
+37,male,rural,48000,no,0,no,no,no,no,no
+58,female,inner_city,89000,yes,1,yes,no,no,no,no
+20,male,town,23000,no,0,no,no,no,no,no
+52,female,suburban,95000,yes,1,no,no,no,no,no
+33,male,rural,62000,no,0,no,no,no,no,no
+70,female,inner_city,124000,yes,2,yes,no,no,no,no
+41,male,town,70000,yes,1,no,no,no,no,no
+36,female,suburban,59000,no,0,no,no,no,no,no
+65,male,rural,98000,yes,2,yes,no,no,no,no
+47,female,inner_city,86000,yes,1,no,no,no,no,no
+29,male,town,52000,no,0,no,no,no,no,no
+56,female,suburban,83000,yes,1,no,no,no,no,no
+22,male,rural,27000,no,0,no,no,no,no,no
+73,female,inner_city,119000,yes,2,yes,no,no,no,no
+38,male,town,77000,no,1,no,no,no,no,no
+34,female,suburban,64000,no,0,no,no,no,no,no
+67,male,rural,103000,yes,2,no,no,no,no,no
+50,female,inner_city,98000,yes,1,no,no,no,no,no
+31,male,town,61000,no,0,no,no,no,no,no
+44,female,suburban,87000,yes,1,no,no,no,no,no
+67,female,rural,108000,yes,2,yes,no,no,no,no
+43,male,town,76000,yes,1,no,no,no,no,no
+24,female,suburban,30000,no,0,no,no,no,no,no
+37,male,rural,48000,no,0,no,no,no,no,no
+58,female,inner_city,89000,yes,1,yes,no,no,no,no
+20,male,town,23000,no,0,no,no,no,no,no
+52,female,suburban,95000,yes,1,no,no,no,no,no
+26,male,rural,42000,no,0,no,no,no,no,no
+61,female,inner_city,104000,yes,2,yes,no,no,no,no
+39,male,town,72000,no,1,no,no,no,no,no
+48,female,suburban,85000,yes,1,no,no,no,no,no
+23,male,rural,31000,no,0,no,no,no,no,no
+66,female,inner_city,113000,yes,2,yes,no,no,no,no
+35,male,town,58000,no,0,no,no,no,no,no
+27,female,suburban,39000,no,0,no,no,no,no,no
+54,male,rural,95000,yes,1,no,no,no,no,no
+42,female,inner_city,75000,yes,1,no,no,no,no,no
+30,male,town,54000,no,0,no,no,no,no,no
+59,female,suburban,97000,yes,2,yes,no,no,no,no
+46,male,rural,81000,no,1,no,no,no,no,no
+28,female,inner_city,49000,no,0,no,no,no,no,no
+53,male,town,88000,yes,1,no,no,no,no,no
+36,female,suburban,62000,no,0,no,no,no,no,no
+71,male,rural,126000,yes,3,yes,no,no,no,no

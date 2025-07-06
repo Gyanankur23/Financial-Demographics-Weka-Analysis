@@ -11,7 +11,7 @@ Financial-Demographics-Weka-Analysis/
 ├── data/
 │   └── financialdemographics100.arff       # Synthetic dataset with 100 entries
 ├── outputs/                                  # All Weka-generated visualizations
-│   ├── 1000071750-Picsart-AirImageEnhancer.png  # Main combination of all plots
+│   ├── 1000071750-Picsart-AiImageEnhancer.png  # Main combination of all plots
 │   ├── IMG20250706202945.png                  # Age histogram
 │   ├── IMG20250706203017.png                  # Sex pie chart
 │   ├── IMG20250706203034.png                  # Region histogram
@@ -54,7 +54,7 @@ All outputs were saved inside the /outputs/ folder and sequenced exactly as they
 # 📷 Visualizations
 
 ### 🧩 Main Combination of All Plots
-![Main Overview](outputs/1000071750-Picsart-AirImageEnhancer.png)
+![Main Overview](outputs/1000071750-Picsart-AiImageEnhancer.png)
 
 ---
 
